@@ -11,9 +11,9 @@ It helps users quickly evaluate suppliers, compare performance (spend, lead time
 E-commerce Procurement Manager who needs to select reliable suppliers and control costs.
 
 ## Dataset
-- Source: Vendor Performance Analysis Dataset (Kaggle)  
+- Source: Vendor Performance Analysis Dataset (Kaggle)  https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis?resource=download&select=purchases.csv
 - Accessed: April 2026  
-- Used a simple random sample (purchases_sample_25mb.csv) for GitHub upload
+- Because the original dataset is too large, I used a simple random sample (purchases_sample_25mb.csv) for GitHub upload
 
 ## Key Features
 - Interactive filters (supplier selection + minimum spend)
@@ -38,4 +38,5 @@ E-commerce Procurement Manager who needs to select reliable suppliers and contro
 ## Technologies
 Python, pandas, Plotly, Streamlit
 
-Made for ACC102 Mini Assignment - Track 4
+## Author
+Yuqi Li
