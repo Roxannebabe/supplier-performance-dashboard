@@ -8,7 +8,7 @@ This is an interactive Streamlit dashboard for e-commerce / retail procurement m
 It helps users quickly evaluate suppliers, compare performance (spend, lead time, on-time rate), and make better purchasing decisions.
 
 ## Target User
-Fashion / E-commerce Procurement Manager who needs to select reliable suppliers and control costs.
+E-commerce Procurement Manager who needs to select reliable suppliers and control costs.
 
 ## Dataset
 - Source: Vendor Performance Analysis Dataset (Kaggle)  
